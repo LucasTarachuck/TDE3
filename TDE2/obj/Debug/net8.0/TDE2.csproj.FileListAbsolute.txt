@@ -1,0 +1,14 @@
+C:\Users\InfoHaus\Desktop\LP\TDE2\bin\Debug\net8.0\TDE2.exe
+C:\Users\InfoHaus\Desktop\LP\TDE2\bin\Debug\net8.0\TDE2.deps.json
+C:\Users\InfoHaus\Desktop\LP\TDE2\bin\Debug\net8.0\TDE2.runtimeconfig.json
+C:\Users\InfoHaus\Desktop\LP\TDE2\bin\Debug\net8.0\TDE2.dll
+C:\Users\InfoHaus\Desktop\LP\TDE2\bin\Debug\net8.0\TDE2.pdb
+C:\Users\InfoHaus\Desktop\LP\TDE2\obj\Debug\net8.0\TDE2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InfoHaus\Desktop\LP\TDE2\obj\Debug\net8.0\TDE2.AssemblyInfoInputs.cache
+C:\Users\InfoHaus\Desktop\LP\TDE2\obj\Debug\net8.0\TDE2.AssemblyInfo.cs
+C:\Users\InfoHaus\Desktop\LP\TDE2\obj\Debug\net8.0\TDE2.csproj.CoreCompileInputs.cache
+C:\Users\InfoHaus\Desktop\LP\TDE2\obj\Debug\net8.0\TDE2.dll
+C:\Users\InfoHaus\Desktop\LP\TDE2\obj\Debug\net8.0\refint\TDE2.dll
+C:\Users\InfoHaus\Desktop\LP\TDE2\obj\Debug\net8.0\TDE2.pdb
+C:\Users\InfoHaus\Desktop\LP\TDE2\obj\Debug\net8.0\TDE2.genruntimeconfig.cache
+C:\Users\InfoHaus\Desktop\LP\TDE2\obj\Debug\net8.0\ref\TDE2.dll
